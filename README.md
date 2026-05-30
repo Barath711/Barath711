@@ -1,36 +1,10 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=200&section=header&text=Barath%20A%20C&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=I%20watch%20logs%20so%20you%20can%20sleep&descAlignY=55&descSize=18)
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=SOC+Analyst+%7C+Threat+Hunter;Someone+has+to+click+the+alerts;Yes%2C+I+read+your+phishing+emails;Sleep+is+overrated+anyway" alt="Typing SVG" />
-
-</div>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0000,100:0d1117&height=220&section=header&text=B%20A%20R%20A%20T%20H&fontSize=60&fontColor=e8192c&animation=fadeIn&fontAlignY=40&desc=SOC%20Analyst%20%7C%20Threat%20Hunter%20%7C%20Professional%20Paranoid&descSize=16&descAlignY=62&descColor=888888)
 
 <br>
 
-<div align="center">
-
-```
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   > whoami                                                   │
-│   Cyber paranoia professional.                               │
-│   I find threats before coffee. Usually.                     │
-│                                                              │
-│   > cat /etc/status                                          │
-│   🔴 Currently hunting something suspicious                  │
-│   🟢 Open to interesting conversations                       │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-<br>
-
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=3000&pause=500&color=8B949E&center=true&vCenter=true&random=false&width=435&lines=%22Is+this+a+threat%3F%22+%E2%80%94+Me%2C+looking+at+everything;Correlation+rule+go+brrr;Alert+fatigue+is+my+cardio)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1500&color=e8192c&center=true&vCenter=true&random=false&width=550&lines=Accessing+classified+dossier...;Identity%3A+Confirmed.;Clearance%3A+Granted.;You+probably+shouldn't+be+here." alt="typing" />
 
 </div>
 
@@ -38,102 +12,39 @@
 
 <div align="center">
 
-### ⚡ Things I Break (Legally)
-
-<img src="https://skillicons.dev/icons?i=python,powershell,azure,linux&theme=dark" />
+```
+╔═══════════════════════════════════════════════════════╗
+║                   [ CLASSIFIED ]                      ║
+╠═══════════════════════════════════════════════════════╣
+║  NAME      :  Barath A C                              ║
+║  ROLE      :  SOC Analyst II                          ║
+║  EMPLOYER  :  ██████████ (rhymes with "Deloitte")     ║
+║  LOCATION  :  Hyderabad, India  🇮🇳                   ║
+║  KNOWN FOR :  Reading logs you forgot existed         ║
+║               Hunting threats before your standup     ║
+║               Automating the boring parts             ║
+║               Building OSINT tools nobody asked for   ║
+╠═══════════════════════════════════════════════════════╣
+║  STATUS    :  🔴 ACTIVE  (threat not yet contained)   ║
+╚═══════════════════════════════════════════════════════╝
+```
 
 </div>
 
 <br>
-
-<table align="center">
-<tr>
-<td width="50%">
-
-**🛡️ Defense**
-```yaml
-SIEM: Splunk | Sentinel
-EDR:  CrowdStrike | Defender
-SOAR: Cortex XSOAR
-ICS:  Nozomi Networks
-```
-
-</td>
-<td width="50%">
-
-**🔍 Offense (Research Only™)**
-```yaml
-Hunting:  MITRE ATT&CK
-Intel:    OSINT | CTI
-Forensics: Memory | Disk
-Malware:  Sandboxing
-```
-
-</td>
-</tr>
-</table>
 
 ---
 
 <div align="center">
 
-### 📦 Open Source Stuff I Made While Bored
-
-</div>
-
-<div align="center">
-
-[![OSINT MultiSearch](https://github-readme-stats.vercel.app/api/pin/?username=barath0711&repo=OSINT-MultiSearch&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/barath0711/OSINT-MultiSearch)
-[![Browser History Parser](https://github-readme-stats.vercel.app/api/pin/?username=barath0711&repo=Browser-History-Parser&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/barath0711/Browser-History-Parser)
-
-</div>
-
-<details>
-<summary><b>🤫 Click if you're curious (or just bored)</b></summary>
-<br>
-
-<div align="center">
-
-| Metric | Status |
-|--------|--------|
-| ☕ Coffee dependency | `Critical` |
-| 🚨 Alert queues | `Probably full` |
-| 😴 Sleep schedule | `404 Not Found` |
-| 🔥 Incidents contained | `A few` |
-| 📧 Phishing emails analyzed | `Too many` |
-
-</div>
-
-<br>
+<img src="https://skillicons.dev/icons?i=python,powershell,azure,linux,bash,vscode&theme=dark" />
 
 ```python
-class Barath:
-    def __init__(self):
-        self.role = "SOC Analyst II"
-        self.location = "Hyderabad, IN"
-        self.currently = "Staring at dashboards"
-        
-    def daily_routine(self):
-        return ["Wake up", "Check alerts", "More alerts", 
-                "Lunch?", "Alerts again", "Sleep (maybe)"]
-    
-    def ask_me_about(self):
-        return ["Threat hunting", "Why that alert fired", 
-                "OSINT tools", "Log correlation", "Burnout prevention"]
+toolkit = ["Splunk", "Sentinel", "CrowdStrike", "Defender",
+           "MITRE ATT&CK", "OSINT", "Forensics", "KQL", "XSOAR"]
+
+# no, i will not stop adding to this list
 ```
-
-</div>
-
-</details>
-
----
-
-<div align="center">
-
-### 📊 Stats That Prove I Exist
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=barath0711&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=barath0711&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 
 </div>
 
@@ -141,15 +52,7 @@ class Barath:
 
 <div align="center">
 
-### 🌐 Find Me (If You Can)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=58a6ff)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=protonmail&logoColor=58a6ff)](mailto:barath0711@outlook.com)
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=barath0711&style=for-the-badge&color=0d1117&label=THREAT+ACTORS+WATCHING" />
+**`// things i built while the SIEM was quiet`**
 
 </div>
 
@@ -157,16 +60,41 @@ class Barath:
 
 <div align="center">
 
-```
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣤⣤⣤⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣄⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀⠀⠀⠀
-⠀⠀[ Your alerts are safe with me. Probably. ]⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-```
+[![OSINT MultiSearch](https://github-readme-stats.vercel.app/api/pin/?username=barath0711&repo=OG-MULTIOSINT&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e8192c&icon_color=e8192c&text_color=888888)](https://github.com/barath0711/OG-MULTIOSINT)
+&nbsp;
+[![Phishing Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=barath0711&repo=PhishingAnalyzer&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e8192c&icon_color=e8192c&text_color=888888)](https://github.com/barath0711/PhishingAnalyzer)
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=100&section=footer)
+---
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=barath0711&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e8192c&icon_color=e8192c&text_color=555555&hide_title=true&rank_icon=github" />
+&nbsp;
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=barath0711&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1a0000&ring=e8192c&fire=ff6b6b&currStreakLabel=e8192c&sideLabels=555555&dates=555555" />
+
+</div>
+
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/─_LinkedIn_─-0d1117?style=for-the-badge&logo=linkedin&logoColor=e8192c)](https://linkedin.com/in/yourprofile)
+&nbsp;
+[![Email](https://img.shields.io/badge/─_Email_─-0d1117?style=for-the-badge&logo=gmail&logoColor=e8192c)](mailto:barath0711@outlook.com)
+&nbsp;
+[![Views](https://komarev.com/ghpvc/?username=barath0711&color=e8192c&style=for-the-badge&label=VISITORS+IDENTIFIED)](https://github.com/barath0711)
+
+</div>
+
+<br>
+
+<div align="center">
+<sub><i>"I don't have trust issues. I have threat models."</i></sub>
+</div>
+
+<br>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0000,100:0d1117&height=100&section=footer)
 
