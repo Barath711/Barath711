@@ -54,11 +54,8 @@ arsenal = {
 
 <div align="center">
 
-<a href="https://github.com/Barath711/OG-MULTIOSINT">
+<a href="https://github.com/Barath711/MULTIOSINT">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Barath711&repo=OG-MULTIOSINT&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e8192c&icon_color=e8192c&text_color=666666" />
-</a>
-<a href="https://github.com/Barath711/PhishingAnalyzer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Barath711&repo=PhishingAnalyzer&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e8192c&icon_color=e8192c&text_color=666666" />
 </a>
 
 </div>
