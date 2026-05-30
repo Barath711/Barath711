@@ -1,17 +1,21 @@
 <div align="center">
 
-# Barath A C
-
-**SOC Analyst II** · Deloitte USI · Cyber & Strategic Risk
-
-*Turning alerts into insights, incidents into post-mortems, and coffee into Python scripts.*
+<!-- Clean gradient header - subtle, not wavy -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=1&section=header" width="100%"/>
 
 <br/>
 
+# Barath A C
+
+<!-- Typing effect - single line, professional -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1500&color=6E7681&center=true&vCenter=true&repeat=true&width=500&height=30&lines=SOC+Analyst+II+%40+Deloitte+USI;Threat+Detection+%26+Incident+Response;Building+tools+that+make+security+less+painful" alt="Typing SVG" /></a>
+
+<br/><br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-barath07-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/barath07)
 [![Email](https://img.shields.io/badge/Email-barath0711@outlook.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:barath0711@outlook.com)
-[![Location](https://img.shields.io/badge/Chennai,_India-Open_to_Relocation-2E8B57?style=flat-square)]()
-[![Notice](https://img.shields.io/badge/Notice-60_Days_(Negotiable)-6366F1?style=flat-square)]()
+[![Location](https://img.shields.io/badge/Chennai-Open_to_Relocation-2E8B57?style=flat-square&logo=googlemaps&logoColor=white)]()
+[![Notice](https://img.shields.io/badge/60_Days-Negotiable-6366F1?style=flat-square)]()
 
 </div>
 
@@ -25,56 +29,37 @@ Passionate about forensics—specifically that satisfying moment when you finall
 
 <br/>
 
-## Stack
+## Tech
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-**Detection & Response**
-- Splunk · Microsoft Sentinel (KQL)
-- CrowdStrike Falcon · Cortex XDR/XSOAR
-- Microsoft Defender for Endpoint & Identity
-- Trend Micro · Palo Alto
+<!-- Animated skill icons - clean dark theme -->
+<img src="https://skillicons.dev/icons?i=py,powershell,azure,linux,vscode&theme=dark&perline=5" />
 
-</td>
-<td width="50%" valign="top">
+<br/><br/>
 
-**Asset Intelligence & OT**
-- Tanium · Axonius
-- Nozomi Networks (ICS/OT)
+<!-- Subtle flat badges grouped logically -->
+`Splunk` `Microsoft Sentinel` `KQL` `CrowdStrike Falcon` `Cortex XDR` `Microsoft Defender`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+`Tanium` `Axonius` `Nozomi Networks` `Trend Micro` `Palo Alto`
 
-**Threat Intel & Forensics**
-- MITRE ATT&CK · OSINT
-- VirusTotal · AbuseIPDB · URLSCAN.io
-- Phishing payload analysis
-- Root cause investigation
+`MITRE ATT&CK` `VirusTotal` `AbuseIPDB` `OSINT` `Phishing Analysis`
 
-</td>
-<td width="50%" valign="top">
+`Azure AD` `ServiceNow` `Jira`
 
-**Automation & Identity**
-- Python · PowerShell
-- Azure AD · IAM · DLP
-- ServiceNow · Jira
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
 ## Certifications
 
-| | |
-|---|---|
-| **SC-200** | Microsoft Security Operations Analyst |
-| **AI-102** | Azure AI Engineer Associate |
+<div align="center">
+
+<img src="https://img.shields.io/badge/SC--200-Security_Operations_Analyst-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/AI--102-Azure_AI_Engineer_Associate-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
+
+</div>
 
 <br/>
 
@@ -82,32 +67,9 @@ Passionate about forensics—specifically that satisfying moment when you finall
 
 <div align="center">
 
-[![MultiOSINT](https://github-readme-stats.vercel.app/api/pin/?username=Barath711&repo=MultiOSINT&theme=transparent&hide_border=true)](https://github.com/Barath711/MultiOSINT)
-[![Resume](https://github-readme-stats.vercel.app/api/pin/?username=Barath711&repo=Resume&theme=transparent&hide_border=true)](https://github.com/Barath711/Resume)
-
-</div>
-
-| Project | Description | Result |
-|---------|-------------|--------|
-| **MultiOSINT** | Desktop tool querying VirusTotal, AbuseIPDB & URLSCAN.io simultaneously | 40% faster IOC lookups · Adopted team-wide |
-| **Resume** | Interactive HTML resume | You're probably here because of it |
-
-<br/>
-
-## Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Barath711&show_icons=true&theme=transparent&hide_border=true&hide_title=true&hide_rank=true" height="150"/>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-*"The best incident response is the one where you already have the playbook."*
-
-</div>
+<a href="https://github.com/Barath711/MultiOSINT">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Barath711&repo=MultiOSINT&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" width="400"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Barath711/Resume">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Barath711&repo=Resume&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=8b94
