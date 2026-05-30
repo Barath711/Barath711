@@ -101,12 +101,6 @@
 
  ## 📦 Featured Project
  
- [![OG-MULTIOSINT](https://github-readme-stats.vercel.app/api/pin/?username=Barath711&repo=OG-MULTIOSINT&theme=default&border_radius=10)](https://github.com/Barath711/MultiOSINT)
-
-Or even simpler without the pin card:
-
- ## 📦 Featured Project
- 
  - 🔗 [MultiOSINT](https://github.com/Barath711/MultiOSINT) — *MultiOsint - No need to copy paste 100 times!*
 
 
