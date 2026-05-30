@@ -1,11 +1,8 @@
 <div align="center">
 
-<!-- TOP EDGE — no text, pure animated glow that bleeds into dark background -->
-![](https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,60:1a0000,100:e8192c&height=120&section=header&animation=twinkling&reversal=false)
+![](https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,60:1a0000,100:e8192c&height=100&section=header&animation=twinkling&reversal=false)
 
-</div>
-
-<div align="center">
+<br>
 
 # BARATH A C
 
@@ -13,13 +10,21 @@
 
 <br>
 
-**`SOC Analyst II`** &nbsp;·&nbsp; `██████████` *(rhymes with "Deloitte")* &nbsp;·&nbsp; 📍 Hyderabad 🇮🇳
+**`SOC Analyst II`** &nbsp;·&nbsp; `██████████` *(rhymes with "Deloitte")* &nbsp;·&nbsp; 📍 Chennai → Open to Relocation
 
-<sub>Reading logs you forgot existed &nbsp;·&nbsp; Building tools nobody asked for &nbsp;·&nbsp; Automating away my own boredom</sub>
+<sub>Reading logs you forgot existed · Building tools nobody asked for · Automating away my own boredom</sub>
 
 <br>
 
-> *"I don't have trust issues. I have threat models."*
+> *"If you're copy-pasting IOCs between 5 browser tabs, you're not doing security — you're doing data entry."*
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=e8192c)](https://linkedin.com/in/barath07)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=e8192c)](mailto:barath0711@outlook.com)
+&nbsp;
+[![Views](https://komarev.com/ghpvc/?username=Barath711&color=e8192c&style=for-the-badge&label=STALKERS)](https://github.com/Barath711)
 
 </div>
 
@@ -34,10 +39,11 @@
 ```python
 arsenal = {
     "SIEM"    : ["Splunk", "Microsoft Sentinel"],
-    "EDR"     : ["CrowdStrike", "Defender XDR"],
+    "EDR"     : ["CrowdStrike", "Cortex XDR", "Defender"],
     "Hunting" : ["MITRE ATT&CK", "KQL", "Sigma"],
-    "Intel"   : ["OSINT", "CTI", "Sandboxing"],
+    "Intel"   : ["OSINT", "CTI", "VirusTotal", "AbuseIPDB"],
     "SOAR"    : ["Cortex XSOAR"],
+    "Certs"   : ["SC-200", "AI-102"],
 }
 # yes, all of it. no, i don't sleep.
 ```
@@ -48,11 +54,11 @@ arsenal = {
 
 <div align="center">
 
-<a href="https://github.com/barath0711/OG-MULTIOSINT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=barath0711&repo=OG-MULTIOSINT&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e8192c&icon_color=e8192c&text_color=666666" />
+<a href="https://github.com/Barath711/OG-MULTIOSINT">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Barath711&repo=OG-MULTIOSINT&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e8192c&icon_color=e8192c&text_color=666666" />
 </a>
-<a href="https://github.com/barath0711/PhishingAnalyzer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=barath0711&repo=PhishingAnalyzer&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e8192c&icon_color=e8192c&text_color=666666" />
+<a href="https://github.com/Barath711/PhishingAnalyzer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Barath711&repo=PhishingAnalyzer&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e8192c&icon_color=e8192c&text_color=666666" />
 </a>
 
 </div>
@@ -61,7 +67,7 @@ arsenal = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=barath0711&theme=tokyo-night&hide_border=true&area=true&custom_title=Threat%20Activity%20Timeline&color=e8192c&line=e8192c&point=ffffff&area_color=200000" width="97%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Barath711&theme=tokyo-night&hide_border=true&area=true&custom_title=Threat%20Activity%20Timeline&color=e8192c&line=e8192c&point=ffffff&area_color=200000" width="97%" />
 
 </div>
 
@@ -69,33 +75,18 @@ arsenal = {
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=barath0711&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e8192c&icon_color=e8192c&text_color=555555&hide_title=true&rank_icon=github&include_all_commits=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=Barath711&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e8192c&icon_color=e8192c&text_color=555555&hide_title=true&rank_icon=github&include_all_commits=true&count_private=true" />
 &nbsp;
-<img height="150" src="https://streak-stats.demolab.com/?user=barath0711&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1a0000&ring=e8192c&fire=ff6b6b&currStreakLabel=e8192c&sideLabels=444444&dates=444444" />
+<img height="150" src="https://streak-stats.demolab.com/?user=Barath711&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1a0000&ring=e8192c&fire=ff6b6b&currStreakLabel=e8192c&sideLabels=444444&dates=444444" />
 
 </div>
 
 <br>
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=barath0711&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1" width="97%" />
-
-</div>
-
----
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=e8192c)](https://linkedin.com/in/yourprofile)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=e8192c)](mailto:barath0711@outlook.com)
-&nbsp;
-[![Views](https://komarev.com/ghpvc/?username=barath0711&color=e8192c&style=for-the-badge&label=VISITORS+TRACKED)](https://github.com/barath0711)
-
+<img src="https://github-profile-trophy.vercel.app/?username=Barath711&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1" width="97%" />
 </div>
 
 <br>
 
-<!-- BOTTOM EDGE — mirror of the top, blends back out -->
 ![](https://capsule-render.vercel.app/api?type=waving&color=0:e8192c,40:1a0000,100:0d1117&height=100&section=footer&animation=twinkling)
