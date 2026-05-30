@@ -78,19 +78,12 @@
 
 <br/>
 <hr/>
+<div>
 
  ## 📊 My Contributions
  
  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Barath711&theme=github-compact)
-
-Or a simpler stats-based approach:
-
- ## 📊 My Contributions
- 
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Barath711&show_icons=true&theme=default&include_all_commits=true&count_private=true)
- 
- ![GitHub Streak](https://streak-stats.demolab.com?user=Barath711&theme=default)
-
+</div>
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
