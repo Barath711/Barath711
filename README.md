@@ -106,7 +106,7 @@
 <h2>📦 Featured Project</h2>
 <br/>
 
-<a href="https://github.com/Barath711/OG-MULTIOSINT">
+<a href="https://github.com/Barath711/MultiOSINT">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Barath711&repo=OG-MULTIOSINT&theme=react&border_radius=10" />
 </a>
 
