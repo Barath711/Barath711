@@ -1,18 +1,23 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a0000,100:0d1117&height=200&section=header&text=BARATH%20A%20C&fontSize=48&fontColor=e8192c&animation=twinkling&fontAlignY=38&desc=SOC%20Analyst%20%C2%B7%20Threat%20Hunter%20%C2%B7%20Professional%20Paranoid&descSize=14&descAlignY=58&descColor=555555)
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&pause=1000&color=e8192c&center=true&vCenter=true&random=false&width=600&lines=%5BSYSTEM%5D+Accessing+classified+dossier...;%5BAUTH%5D+Identity+confirmed.+Clearance+granted.;%5BWARN%5D+You+probably+shouldn%27t+be+here.;%5BSTATUS%5D+Threat+not+yet+contained." alt="typing" />
+<!-- TOP EDGE — no text, pure animated glow that bleeds into dark background -->
+![](https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,60:1a0000,100:e8192c&height=120&section=header&animation=twinkling&reversal=false)
 
 </div>
 
-<br>
-
 <div align="center">
+
+# BARATH A C
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&pause=1000&color=e8192c&center=true&vCenter=true&random=false&width=620&lines=%5BSYSTEM%5D+Accessing+classified+dossier...;%5BAUTH+%5D+Identity+confirmed.+Clearance+granted.;%5BWARN+%5D+You+probably+shouldn%27t+be+here.;%5BSTATUS%5D+Threat+not+yet+contained." alt="typing" />
+
+<br>
 
 **`SOC Analyst II`** &nbsp;·&nbsp; `██████████` *(rhymes with "Deloitte")* &nbsp;·&nbsp; 📍 Hyderabad 🇮🇳
 
-Reading logs you forgot existed &nbsp;·&nbsp; Building tools nobody asked for &nbsp;·&nbsp; Automating away my own boredom
+<sub>Reading logs you forgot existed &nbsp;·&nbsp; Building tools nobody asked for &nbsp;·&nbsp; Automating away my own boredom</sub>
+
+<br>
 
 > *"I don't have trust issues. I have threat models."*
 
@@ -92,4 +97,5 @@ arsenal = {
 
 <br>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,60:0a0a0a,100:0d1117&height=100&section=footer)
+<!-- BOTTOM EDGE — mirror of the top, blends back out -->
+![](https://capsule-render.vercel.app/api?type=waving&color=0:e8192c,40:1a0000,100:0d1117&height=100&section=footer&animation=twinkling)
