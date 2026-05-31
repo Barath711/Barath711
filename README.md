@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Barath711.Barath711" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Barath+A+C!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Barath!;" />
 </h1>
 
 <h3 align="center">SOC Analyst II &nbsp;·&nbsp; Threat Hunter &nbsp;·&nbsp; Tool Builder 🛡️</h3>
@@ -10,15 +10,15 @@
 
 <div align="center">
 
-🔭 &nbsp;I'm currently working as a **SOC Analyst II** at `██████████` *(rhymes with "Deloitte")*
+🔭 &nbsp;I’m a **SOC Analyst II** at `██████████` *(rhymes with "Deloitte")*, defending endpoints and infrastructure at scale.
 
-🌱 &nbsp;I'm currently sharpening skills in **Detection Engineering, Cloud Security & Threat Intelligence**
+🌱 &nbsp;Currently leveling up in **Detection Engineering, Cloud Security, and Threat Hunting** — with a heavy focus on turning real-world TTPs into actionable detections.
 
-💬 &nbsp;Ask me about **Threat Hunting, OSINT, KQL, Splunk, CrowdStrike... or anything [here](https://github.com/Barath711/Barath711/issues)**
+💬 &nbsp;Talk to me about **Threat Hunting, OSINT, KQL, Splunk, CrowdStrike**… or open an issue [here](https://github.com/Barath711/Barath711/issues) and I’ll geek out with you.
 
-⚡ &nbsp;Fun fact: **I built MultiOSINT because pivoting across 7 tabs for one IOC should be illegal**
+⚡ &nbsp;Fun fact: I built **MultiOSINT** because pivoting across 7 tabs for a single IOC should be a prosecutable offense.
 
-📍 &nbsp;Based in **Chennai, India** — open to relocation
+📍 &nbsp;Based out of **Madras, India** — open to remote collabs and nerdy security side projects.
 
 </div>
 
@@ -33,7 +33,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://github.com/Barath711/OG-MULTIOSINT" target="_blank">
+  <a href="https://github.com/Barath711/MULTIOSINT" target="_blank">
     <img src="https://img.shields.io/badge/MultiOSINT-e8192c?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
